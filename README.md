@@ -1,3 +1,3 @@
 # Hello world
 
-Merge test
+Merge testing a single change
