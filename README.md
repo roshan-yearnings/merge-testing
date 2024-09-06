@@ -1,3 +1,3 @@
 # Hello world
 
-Merge testing a single change
+Merge testing a single change, but with the default merge method.
